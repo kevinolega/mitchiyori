@@ -8,11 +8,11 @@ description: "This is the blog of MitchiYori."
 url: 
 baseurl: "https://kevinolega.github.io/mitchiyori/"
 twitter_username: 
-default_img: {{ site.url }}/images/Mitchiyori.jpg
+default_img: https://github.com/kevinolega/mitchiyori/blob/master/images/Mitchiyori.jpg
 
 # Profile settings
 name: MitchiYori
-profile_img: {{ site.url }}/images/Mitchiyori.jpg
+profile_img: https://github.com/kevinolega/mitchiyori/blob/master/images/Mitchiyori.jpg
 profile: 
 social:
   github: 
