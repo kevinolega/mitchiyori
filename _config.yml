@@ -12,7 +12,7 @@ default_img:
 
 # Profile settings
 name: MitchiYori
-profile_img: 
+profile_img: ({{ site.url }}/images/Mitchiyori.jpg).
 profile: 
 social:
   github: 
