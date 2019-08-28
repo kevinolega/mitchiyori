@@ -4,15 +4,15 @@ permalink: /:title/
 google_analytics: 
 
 title: MITCHIYORI
-description: 
-url: "This is the blog of MitchiYori."
+description: "This is the blog of MitchiYori."
+url: 
 baseurl: "https://kevinolega.github.io/mitchiyori/"
 twitter_username: 
-default_img: 
+default_img: {{ site.url }}/images/Mitchiyori.jpg
 
 # Profile settings
 name: MitchiYori
-profile_img: ({{ site.url }}/images/Mitchiyori.jpg).
+profile_img: {{ site.url }}/images/Mitchiyori.jpg
 profile: 
 social:
   github: 
